@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rezha",
+      "password": "rahasia123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "seto",
+      "password": "rahasia123",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "username": "tuman",
+      "password": "rahasia123",
+      "role": "user"
+    },
+    {
+      "username": "rezharatulangi@gmail.com@gmail.com",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "rezharatulangi@gmail.com",
+      "role": "user",
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "nama": "LENOVO Ip 330s",
+      "harga": 50000,
+      "category": "Laptop & Aksesoris",
+      "discount": 20,
+      "deskripsi": "i7-8550U 4Gb 1Tb Radeon 2Gb 14' Full HD Win 10",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/9/17/2644629/2644629_ac2dae3e-9473-4b8e-b9cc-59b0f1a77593_1297_1017.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Laptop Gaming MSI GL63 8RC-249ID",
+      "harga": 9000,
+      "category": "Laptop & Aksesoris",
+      "discount": 10,
+      "deskripsi": "Intel Core i5-8300H+HM370 4 GB DDR4 WiFi, Bluetooth, Webcam",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/3/16/7103921/7103921_aaf540f8-babb-4715-9649-e01d3493e4b8_500_500.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Sepatu Sport Adidas pria AX2",
+      "harga": 65000,
+      "category": "grade original ( Sangat Sesuai Display )",
+      "discount": null,
+      "deskripsi": "Material : Polyester",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/2/19/21642843/21642843_40157d25-516a-4884-ad7b-35ea6b2a4d49_1600_1201.jpg"
+    },
+    {
+      "nama": "sepatu olahraga pria - RTF 015",
+      "harga": 5000,
+      "discount": 40,
+      "category": "grade original ( Sangat Sesuai Display )",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/4/20/0/0_f00b1313-dade-4a11-8f0d-b28748c2abd8_644_644.jpg",
+      "deskripsi": "produk fashion handmade asal bandung dr brand raindoz di buat dg bahan yg nyaman di gunakan, desain trendy.",
+      "id": 4
+    },
+    {
+      "nama": "Mouse Wireless Blue-Tech MicroPack BT-760W Black Gold",
+      "harga": 2000,
+      "discount": null,
+      "category": "Laptop & Aksesoris",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/9/14/11382698/11382698_d27145cc-1edc-494d-b563-98f8588df405_2000_2000.jpg",
+      "deskripsi": "Works on most surface, including rough grain wood, carpet, sofa cotton cover, granite, shiny surfaces etc, even most glasses",
+      "id": 5
+    },
+    {
+      "nama": "HP 14 Ryzen 3 2200U 4GB 1TB W10",
+      "harga": 400000,
+      "discount": 5,
+      "category": "Laptop & Aksesoris",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/1/13/8221085/8221085_b67600c1-94c8-4ccb-a235-5411dde23d04_700_700.jpg",
+      "deskripsi": "Processor Onboard : AMD Ryzen' 3 2200U (2.5 GHz base frequency, up to 3.4 GHz burst frequency, 1 MB cache, 2 cores) Memori Standar : 4 GB DDR4-2400 SDRAM (1 x 4 GB) Tipe Grafis : AMD Radeon' Vega 3 Graphics Display : 14\" diagonal HD SVA BrightView WLED-backlit (1366 x 768)",
+      "id": 6
+    },
+    {
+      "nama": "Tas Ransel Nike - Merah",
+      "harga": 100000,
+      "discount": null,
+      "category": "Backpack",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/3/13/22920434/22920434_1a88e171-dddd-44d4-92ab-b72336b6c454_700_700.jpg",
+      "deskripsi": "Tas sporty Nike yang sangat nyaman dipakai untuk anak muda sekarang",
+      "id": 7
+    },
+    {
+      "nama": "Jersey Futsal CUSTOM",
+      "harga": 104000,
+      "discount": 10,
+      "category": "Jersey Bola",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/2/9/783586/783586_1e56596b-4562-492b-a105-2501af203c36_907_907.jpg",
+      "deskripsi": "Jersey Futsal CUSTOM Nama Nomor Keren Tim Bola Kaos Drifit C01 Dry Fit Full Print",
+      "id": 8
+    }
+  ],
+  "cart": [],
+  "history": []
+}
